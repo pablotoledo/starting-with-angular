@@ -13,7 +13,8 @@ export class EmpleadoComponent implements OnInit {
     this.empleado = new Empleado("Pablo",28,"POwner",true);
   }
 
-  ngOnInit(): void {
+  ngOnInit(): void { 
+    //coment
     
   }
 
